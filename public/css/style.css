@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    background-color: red; 
+    font-size: xx-large;
+    font-weight: bolder; 
+}
+
+.titre4{
+    text-decoration: underline;
+}
+
+ol{
+    font-style: italic;
+}
+
+ul{
+    font-style: italic;
+}
